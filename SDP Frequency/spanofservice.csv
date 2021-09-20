@@ -1,0 +1,31 @@
+sdp_version,sdp_route_desc,sdp_daytype,span_start,span_end
+2017,Local Bus,weekday,07:00:00,19:00:00
+2017,Local Bus,saturday,08:00:00,18:30:00
+2017,Local Bus,sunday,10:00:00,18:30:00
+2017,Community Bus,weekday,10:00:00,16:00:00
+2017,Commuter Bus,weekday,07:00:00,18:30:00
+2017,Commuter Rail,weekday,07:00:00,22:00:00
+2017,Commuter Rail,saturday,08:00:00,18:30:00
+2017,Ferry,weekday,07:00:00,18:30:00
+2017,Ferry,saturday,08:00:00,18:30:00
+2017,Key Bus,weekday,06:00:00,24:00:00
+2017,Key Bus,saturday,06:00:00,24:00:00
+2017,Key Bus,sunday,07:00:00,24:00:00
+2017,Rapid Transit,weekday,06:00:00,24:00:00
+2017,Rapid Transit,saturday,06:00:00,24:00:00
+2017,Rapid Transit,sunday,07:00:00,24:00:00
+2021,Local Bus,weekday,07:00:00,20:00:00
+2021,Local Bus,saturday,08:00:00,18:30:00
+2021,Local Bus,sunday,10:00:00,18:30:00
+2021,Community Bus,weekday,10:00:00,16:00:00
+2021,Commuter Bus,weekday,07:00:00,18:30:00
+2021,Commuter Rail,weekday,07:00:00,22:00:00
+2021,Commuter Rail,saturday,08:00:00,18:30:00
+2021,Ferry,weekday,07:00:00,18:30:00
+2021,Ferry,saturday,08:00:00,18:30:00
+2021,Key Bus,weekday,06:00:00,24:00:00
+2021,Key Bus,saturday,06:00:00,24:00:00
+2021,Key Bus,sunday,07:00:00,24:00:00
+2021,Rapid Transit,weekday,06:00:00,24:00:00
+2021,Rapid Transit,saturday,06:00:00,24:00:00
+2021,Rapid Transit,sunday,07:00:00,24:00:00
